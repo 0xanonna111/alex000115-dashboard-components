@@ -1,0 +1,10 @@
+{
+  "name": "dashboard-ui-components",
+  "version": "1.0.0",
+  "dependencies": {
+    "framer-motion": "^10.16.0",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^1.14.0",
+    "lucide-react": "^0.284.0"
+  }
+}
